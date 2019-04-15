@@ -35,6 +35,10 @@ img {
     margin-right: 0px;
 }
 
+a {
+    transition: 0.2s ease-out;
+}
+
 
 /* ........................................
 
@@ -202,6 +206,7 @@ p.footer__social-icons a:hover {
     padding-right: 23px;
     
     margin-bottom: 13px;
+    transition: 0.2s ease-out;
        
 }
 
